@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Lab_3 {
     static int[] arr1  ={1,2,3,4,5,6,7,8,9,54,54,3,4};
     static int[] arr2  ={1,2,3,4,5,6,7,8,9,54,54,9,9,9,9,54};
-    int arr3[];
+    static int[] arr3 = {23,45,567,12,45,6,7,4,342,1,1,12,12,34};
     static ArrayList<Integer> nums = new ArrayList<>();
     Scanner scanner = new Scanner(System.in);
     static int count=0;
@@ -42,7 +42,7 @@ public class Lab_3 {
 //    i didn't understant question 3!
     }
     public static void delete(int ar[],int num){
-//    i didn't understant question 3!
+        
     }
     
     public static void main(String[] args) {
